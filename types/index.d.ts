@@ -1,6 +1,4 @@
-
 import type { Icon } from "lucide-react"
-
 import { Icons } from "@/components/icons"
 
 export type NavItem = {
@@ -50,10 +48,4 @@ export type MarketingConfig = {
 export type DashboardConfig = {
   mainNav: MainNavItem[]
   sidebarNav: SidebarNavItem[]
-}
-
-export type SubscriptionPlan = {
-  name: string
-  description: string
-  stripePriceId: string
 }
