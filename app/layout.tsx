@@ -39,11 +39,11 @@ export const metadata = {
   ],
   authors: [
     {
-      name: "shadcn",
-      url: "https://shadcn.com",
+      name: "AvalynnDev",
+      url: "https://avalynn.is-a-good.dev",
     },
   ],
-  creator: "shadcn",
+  creator: "avalynn",
   themeColor: [
     { media: "(prefers-color-scheme: light)", color: "white" },
     { media: "(prefers-color-scheme: dark)", color: "black" },
@@ -61,7 +61,7 @@ export const metadata = {
     title: siteConfig.name,
     description: siteConfig.description,
     images: [`${siteConfig.url}/og.jpg`],
-    creator: "@shadcn",
+    creator: "@AvalynnDevelops",
   },
   icons: {
     icon: "/favicon.ico",
