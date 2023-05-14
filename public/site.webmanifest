@@ -1,6 +1,6 @@
 {
-  "name": "Taxonomy",
-  "short_name": "Taxonomy",
+  "name": "nomy",
+  "short_name": "PrismCore",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",

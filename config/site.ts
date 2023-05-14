@@ -5,9 +5,9 @@ export const siteConfig: SiteConfig = {
   description:
     "PrismCore is a game development organization that provides a robust game engine in C++.",
   url: "https://prismcore.vercel.app",
-  ogImage: "https://tx.shadcn.com/og.jpg",
+  ogImage: "https://prismcore.vercel.app/og.jpg",
   links: {
-    twitter: "https://twitter.com/shadcn",
+    twitter: "https://twitter.com/avalynndev",
     github: "https://github.com/PrismCoreGD/PrismCore",
   },
 }
